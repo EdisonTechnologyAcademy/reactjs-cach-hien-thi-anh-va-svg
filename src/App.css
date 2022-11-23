@@ -1,0 +1,29 @@
+.container {
+  padding: 20px
+}
+
+.img {
+  margin-top: 20px;
+}
+
+.img2 {
+  display: block;
+  height: 200px;
+  width: 130px;
+}
+
+.require-title {
+  margin-top: 30px;
+}
+
+.img3 {
+  display: block;
+  height: 100px;
+  width: 300px;
+}
+
+.img4 {
+  display: block;
+  height: 150px;
+  width: 300px;
+}
